@@ -1,0 +1,3 @@
+I am testing the huffman algorithm
+hahha hope it can work
+I dont want to leave you with the impression that all trees are binary, much less binary search. You have already seen the PQueue modeled as an array-backed binary tree, although binary search had nothing to do with the way elements were stored. You’ve also seen the binomial heap, which is a binomial tree that incidentally respects a heap property. Handout 34 presents the tree structure used to back our Lexicon.
